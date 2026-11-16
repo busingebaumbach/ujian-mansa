@@ -1,15 +1,15 @@
 <?php
-defined('BASEPATH') OR exit('No direct script access allowed');
+defined('BASEPATH') or exit('No direct script access allowed');
 
 $active_group = 'default';
 $query_builder = TRUE;
 
 $db['default'] = array(
-    'dsn'	=> '',
-    'hostname' => 'localhost',
-    'username' => 'u4090554_man1sgu',
-    'password' => 'man1sgu',
-    'database' => 'u4090554_ujianmansa',
+    'dsn'    => '',
+    'hostname' => 'fqwarjgwaseuwljrmkhx4j2t',
+    'username' => 'ujianmansa_user',
+    'password' => 'fllGkWrDn1tJUMXHBltdBDrhsdCbfLZ9dNMGhmbEcvCISmhwLF7FZbBwds9xIXZw',
+    'database' => 'ujianmansa_db',
     'dbdriver' => 'mysqli',
     'dbprefix' => '',
     'pconnect' => FALSE,
